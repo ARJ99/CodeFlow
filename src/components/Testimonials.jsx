@@ -46,7 +46,7 @@ export const Testimonials = () => {
                             {testimonials.map((testimonial, key) => (
                                 <div key={key} className="bg-slate-900/50 p-4 sm:p-6 backdrop-blur-sm border border-slate-800 rounded-xl sm:rounded-2xl">
                                     <div className="flex items-start space-x-3 sm:space-x-4">
-                                        <div className="shrink-0">
+                                        <div className="shrink">
                                             <div className="text-2xl sm:text-3xl lg:text-4xl font-bold bg-linear-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent ">
                                             "
                                             </div>

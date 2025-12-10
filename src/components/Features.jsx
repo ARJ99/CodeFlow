@@ -61,7 +61,7 @@ export const Features = () => {
                                                     <div className='w-2 h-2 sm:w-3 sm:h-3 rounded-full bg-yellow-500' />
                                                     <div className='w-2 h-2 sm:w-3 sm:h-3 rounded-full bg-green-500' />
                                                 </div>
-                                                <span className="text-gray-400 ml-2 sm:ml-4 text-sx sm:text-sm">{feature.title}</span>
+                                                <span className="text-gray-400 ml-2 sm:ml-4 text-xs sm:text-sm">{feature.title}</span>
                                             </div>
                                             <div>
                                                 <SyntaxHighlighter language="javascript" style={nightOwl} customStyle={{

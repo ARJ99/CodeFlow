@@ -41,13 +41,13 @@ export const NavBar = ({scrolled}) => {
                 </div>
             </div>
             {mobileMenuIsOpen && (
-                <div className="md:hidden bg-slate-900/95 backdrop-blur-lg border-t border-slate-800 slide-in-from-top animate-in duration-300">
-                    <div className="px-4 py-4 sm:py-6 space-y-3 sm:space-y-4">
-                        <a href="#features" className="block text-gray-300 hover:text-white text-sm lg:text-base"
+                <div className="md:hidden bg-slate-900/35 backdrop-blur-lg border-t border-slate-800 slide-in-from-top animate-in duration-300">
+                    <div className="px-4 py-4 sm:py-6 space-y-3 sm:space-y-4 ">
+                        <a href="#features" className="block text-gray-300 hover:text-white text-sm lg:text-base border-b border-white/5 px-2 "
                             onClick={() => (setMobileMenuIsOpen(false))}>Feautures</a>
-                        <a href="#pricing" className="block text-gray-300 hover:text-white text-sm lg:text-base"
+                        <a href="#pricing" className="block text-gray-300 hover:text-white text-sm lg:text-base border-b border-white/5 px-2"
                             onClick={() => (setMobileMenuIsOpen(false))}>Pricing</a>
-                        <a href="#testimonials" className="block text-gray-300 hover:text-white text-sm lg:text-base"
+                        <a href="#testimonials" className="block text-gray-300 hover:text-white text-sm lg:text-base border-b border-white/5 px-2"
                             onClick={() => (setMobileMenuIsOpen(false))}>Testimonials</a>
                     </div>
                 </div>
