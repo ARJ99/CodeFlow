@@ -1,8 +1,8 @@
-# CodeFlow 🌊
+# CodeFlow
 
 **CodeFlow** is a sophisticated React-based application designed to streamline and enhance the software development workflow. It leverages AI-powered features for intelligent code completion, automated testing, and smart debugging, aiming to boost developer productivity and code quality.
 
-## Badges 🏆
+## Badges
 
 [![React][react-badge]][react-link]
 [![Vite][vite-badge]][vite-link]
@@ -11,30 +11,30 @@
 
 ---
 
-## Table of Contents 📜
+## Table of Contents
 
-- [Project Title & Badges](#codeflow-🌊)
+- [Project Title](#codeflow)
+- [Badges](#badges)
+- [Table of Contents](#table-of-contents)
 - [Description](#description)
-- [Table of Contents](#table-of-contents-📜)
-- [Features](#features-✨)
-- [Tech Stack](#tech-stack-🛠️)
-- [Installation](#installation-🚀)
-- [Usage](#usage-💡)
-- [Project Structure](#project-structure-📂)
-- [Contributing](#contributing-🤝)
-- [License](#license-📄)
-- [Important Links](#important-links-🔗)
-- [Footer](#footer-👋)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [Important Links](#important-links)
+- [Footer](#footer)
 
 ---
 
-## Description 📝
+## Description
 
 CodeFlow is a modern web application built with React and Vite, focused on revolutionizing the developer experience. It integrates advanced AI capabilities to provide features such as intelligent code suggestions, automated test generation, and intelligent debugging assistance. The goal is to empower developers to write code faster, build better applications, and streamline their entire development lifecycle.
 
 ---
 
-## Features ✨
+## Features
 
 - **AI Code Completion:** Get intelligent, real-time code suggestions powered by AI that learns your coding patterns.
 - **Automated Testing:** Automatically generate comprehensive test cases for your code.
@@ -45,7 +45,7 @@ CodeFlow is a modern web application built with React and Vite, focused on revol
 
 ---
 
-## Tech Stack 🛠️
+## Tech Stack
 
 - **Frontend:** React, Vite
 - **Styling:** Tailwind CSS
@@ -57,7 +57,7 @@ CodeFlow is a modern web application built with React and Vite, focused on revol
 
 ---
 
-## Installation 🚀
+## Installation
 
 To set up and run this project locally, follow these steps:
 
@@ -89,7 +89,7 @@ To set up and run this project locally, follow these steps:
 
 ---
 
-## Usage 💡
+## Usage
 
 CodeFlow is designed to be an intuitive development platform. The main application interface features:
 
@@ -107,7 +107,7 @@ CodeFlow is designed to be an intuitive development platform. The main applicati
 
 ---
 
-## Project Structure 📂
+## Project Structure
 
 The project follows a standard React project structure with Vite:
 
@@ -145,7 +145,7 @@ CodeFlow/
 
 ---
 
-## Contributing 🤝
+## Contributing
 
 We welcome contributions to improve CodeFlow! If you'd like to contribute, please:
 
@@ -160,14 +160,14 @@ Please ensure your code adheres to the project's coding standards and includes t
 
 ---
 
-## Important Links 🔗
+## Important Links
 
 -   **Repository:** [https://github.com/ARJ99/CodeFlow](https://github.com/ARJ99/CodeFlow)
--   **Live Demo:** (No live demo URL found in the provided code analysis.)
+-   **Live Demo:** https://code-flow-bice.vercel.app/
 
 ---
 
-## Footer 👋
+## Footer
 
 © 2025 **CodeFlow**.
 
